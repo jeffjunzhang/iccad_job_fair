@@ -92,7 +92,7 @@ By uploading your CV, you are agreeing to be contacted by participating and spon
 
 [Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), Assistant Professor, Arizona State University
 
-You can reach us at [jeffzhang@asu.edu](mailto:jeffzhang@asu.edu)
+You can reach us at [jeffzhang@asu.edu](mailto:sigdajobfair@xxx)
 
 **Sponsors:** 
 
