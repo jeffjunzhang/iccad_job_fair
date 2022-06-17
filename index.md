@@ -7,8 +7,8 @@ meta-description: "Job Fair at ICCAD. In-person meeting and Livestreamed during 
 
 **Announcement**:
 * We are now having 100 job openings from our participant companies!
-* Our in-person meetings are Nov. 1st (Tuesday) 7:30 PM PT!
-* Join our [email list](https://groups.google.com/forum/#!forum/stanford-mlsys-seminars/join) to get notified of the new job openings every week! 
+* Our in-person meetings are Nov. 1st (Tuesday) 5:30 PM PT!
+* Join our [email list](https://groups.google.com/) to get notified of the new job openings every week! 
 
 The ACM SIGDA job fair is a place for students and professionals looking for internships or jobs to meet with representatives from companies and academia in an informal "meet-and-greet" atmosphere. In the beginning of the event, one representative from each organization has the opportunity to introduce the organization and its job opening(s) for about 1 minute. Afterward, all attendees have a chance to mingle.
 
@@ -105,7 +105,7 @@ IEEE Council on Electronic Design Automation ([CEDA](https://ieee-ceda.org))
 International Conference on Computer-Aided Design ([ICCAD](https://iccad.com))
 
 
-Source code for this website can be found [here](https://github.com/stanford-sysml-seminar/stanford-sysml-seminar.github.io).
+Source code for this website can be found [here](https://github.com/jeffjunzhang/job_fair_2022).
 
 <!-- Please uncomment this part if you clone our source code! -->
 <!--
