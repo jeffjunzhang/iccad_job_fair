@@ -5,11 +5,10 @@ meta-description: "Job Fair at ICCAD. In-person meeting and Livestreamed during 
 
 # ACM SIGDA 1st Job Fair at ICCAD 2022
 
-**News**:
-* We are now available in podcast form on [Apple Podcasts](https://podcasts.apple.com/us/podcast/stanford-mlsys-seminar/id1603927994), [Spotify](https://open.spotify.com/show/3NazVHl6ujGuHCjGlN0SCf), and [Google](https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy83YmRkMzMxNC9wb2RjYXN0L3Jzcw)!
-* Stanford students, check out [CS 528](/cs528), a new course at Stanford running this fall!
-* Our talks this semester are Thursdays 1:30 PM PT!
-* Join our [email list](https://groups.google.com/forum/#!forum/stanford-mlsys-seminars/join) to get notified of the speaker and livestream link every week! 
+**Announcement**:
+* We are now having 100 job openings from our participant companies!
+* Our in-person meetings are Nov. 1st (Tuesday) 7:30 PM PT!
+* Join our [email list](https://groups.google.com/forum/#!forum/stanford-mlsys-seminars/join) to get notified of the new job openings every week! 
 
 The ACM SIGDA job fair is a place for students and professionals looking for internships or jobs to meet with representatives from companies and academia in an informal "meet-and-greet" atmosphere. In the beginning of the event, one representative from each organization has the opportunity to introduce the organization and its job opening(s) for about 1 minute. Afterward, all attendees have a chance to mingle.
 
