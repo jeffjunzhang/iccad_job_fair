@@ -1,6 +1,6 @@
 ---
 layout: default
-meta-description: "Job Fair at ICCAD. In-person meeting and Livestreamed during XXX, 1:30-2:30 pm PT."
+meta-description: "Job Fair at ICCAD. In-person meeting and Livestreamed during XXX, 5:30-7:30 pm PT."
 ---
 
 # ACM SIGDA 1st Job Fair at ICCAD 2022
@@ -8,13 +8,14 @@ meta-description: "Job Fair at ICCAD. In-person meeting and Livestreamed during 
 **Announcement**:
 * We are now having 100 job openings from our company participants!
 * Our in-person meetings are Nov. 1st (Tuesday) 5:30 PM PT!
+* We will have two online meetings on Nov. 2nd and 3rd!
 * Join our [email list](https://groups.google.com/) to get notified of the new job openings every week! 
 
 The ACM SIGDA job fair is a place for students and professionals looking for internships or jobs to meet with representatives from companies and academia in an informal "meet-and-greet" atmosphere. In the beginning of the event, one representative from each organization has the opportunity to introduce the organization and its job opening(s) for about 1 minute. Afterward, all attendees have a chance to mingle.
 
-ACM SIGDA will be holding their annual job fair at the [ICCAD](https://iccad.com) annual conference, in-person, on November 1st (7:30 AM—9:30 PM PST), as well as online, on November 2nd (6:30—8:30 PM PST) and on 3rd (2:30 AM—4:30 AM PST). The job fair is open to all attendees of the ICCAD conference. Attendees are encouraged to submit a CV or résum‌é for circulation beforehand.
+ACM SIGDA will be holding their annual job fair at the [ICCAD](https://iccad.com) annual conference, in-person, on November 1st (5:30 PM—7:30 PM PST), as well as online, on November 2nd (5:30—7:30 PM PST) and on 3rd (2:30 AM—4:30 AM PST). The job fair is open to all attendees of the ICCAD conference. Attendees are encouraged to submit a CV or résum‌é for circulation beforehand.
 
-If you are representing a company, research organization or university and would like to participate in the job fair, please send an email with your contact information to xxx@xxx. In addition, all job fair participants must register for the ICCAD. A small participation fee is required (complimentary or discounted participation is available to certain levels of sponsors and exhibitors).
+If you are representing a company, research organization or university and would like to participate in the job fair, please send an email with your contact information to sigdajobfair@gmail. In addition, all job fair participants must register for the ICCAD. A small participation fee is required (complimentary or discounted participation is available to certain levels of sponsors and exhibitors).
 
 <!--
 We started livestreaming each talk in this seminar series every week on [YouTube](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ)
