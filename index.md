@@ -6,7 +6,7 @@ meta-description: "Job Fair at ICCAD. In-person meeting and Livestreamed during 
 # ACM SIGDA 1st Job Fair at ICCAD 2022
 
 **Announcement**:
-* We are now having 100 job openings from our participant companies!
+* We are now having 100 job openings from our company participants!
 * Our in-person meetings are Nov. 1st (Tuesday) 5:30 PM PT!
 * Join our [email list](https://groups.google.com/) to get notified of the new job openings every week! 
 
