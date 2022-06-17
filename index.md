@@ -1,6 +1,6 @@
 ---
 layout: default
-meta-description: "Seminar series on the frontier of machine learning and systems. Livestreamed every Thursday, 1:30-2:30 pm PT."
+meta-description: "Job Fair at ICCAD. In-person meeting and Livestreamed during XXX, 1:30-2:30 pm PT."
 ---
 
 # ACM SIGDA 1st Job Fair at ICCAD 2022
