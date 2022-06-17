@@ -73,6 +73,14 @@ Check out our introductory video:
 {% endfor %}
 
 
+# Submit Your CV
+
+As part of the job fair, attendees are encouraged to submit their CV to all of the participating companies before the job fair. This will help companies identify and possibly schedule an onsite interview with you when you attend.
+
+Please clearly indicate on your CV or r‌ésum‌é your availability and type of job interest, along with contact information!
+
+Upload your CV here to submit to all participating companies. By uploading your CV, you are agreeing to be contacted by participating and sponsor companies about recruiting and job openings.
+
 # About The Job Fair
 
 **Organizers:** 
