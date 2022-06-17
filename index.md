@@ -53,7 +53,8 @@ Check out our introductory video:
     <details>
     <summary>Job Openings </summary>
     {{ talk.abstract }}
-    <div class="tip" markdown="1">{ talk.abstract }**</div>
+    <div class="talk-abstract" markdown="1">{{ talk.abstract }}**</div>
+      
     
     {% if talk.bio %}
     <br><br>
