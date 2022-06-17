@@ -11,28 +11,22 @@ meta-description: "Job Fair at ICCAD. In-person meeting and Livestreamed during 
 * Our talks this semester are Thursdays 1:30 PM PT!
 * Join our [email list](https://groups.google.com/forum/#!forum/stanford-mlsys-seminars/join) to get notified of the speaker and livestream link every week! 
 
-Machine learning is driving exciting changes and progress in computing.
-What does the ubiquity of machine learning mean for how people build and deploy
-systems and applications?
-What challenges does industry face when deploying machine learning systems in
-the real world, and how can academia rise to meet those challenges?
+The ACM SIGDA job fair is a place for students and professionals looking for internships or jobs to meet with representatives from companies and academia in an informal "meet-and-greet" atmosphere. In the beginning of the event, one representative from each organization has the opportunity to introduce the organization and its job opening(s) for about 1 minute. Afterward, all attendees have a chance to mingle.
 
-In this seminar series, we want to take a look at the frontier of machine
-learning systems, and how machine learning changes the modern programming
-stack.
-Our goal is to help curate a curriculum of awesome work in ML systems to help
-drive research focus to interesting questions.
+AAAI/ACM SIGAI will be holding their annual job fair at the AAAI annual conference, virtually, on February 26th (10:30 AM—12:30 PM PST, as well as 6:30—8:30 PM PST) and on February 27th (2:30 AM—4:30 AM PST). The job fair is open to all attendees of the AAAI conference. Attendees are encouraged to submit a CV or résum‌é for circulation beforehand.
 
+[]: # (
 We started livestreaming each talk in this seminar series every week on [YouTube](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ)
 in Fall 2020, and we've been going strong ever since!
 Every week we take questions from the live chat, and keep videos of the talks
 available on YouTube afterwards as well.
 Give our channel a follow, and tune in every week for an exciting discussion!
 
-Read about our [motivation for starting this seminar](https://hazyresearch.stanford.edu/blog/2020-10-13-mlsys).
+Read about our [motivation for starting this seminar](https://hazyresearch.stanford.edu/blog/2020-10-13-mlsys). 
 
 Check out our introductory video:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OEiNnfdxBRE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+)
 
 <!-- Read our blog post on our [why we're running this seminar]({{ site.baseurl }}/about). -->
 
