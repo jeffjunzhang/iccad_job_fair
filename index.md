@@ -55,7 +55,7 @@ Check out our introductory video:
     
     {% if talk.bio %}
     <br><br>
-    <strong>Bio: </strong> {{ talk.bio }}
+    <strong>Mission: </strong> {{ talk.bio }}
     {% endif %}
 
     {% if talk.recording %}
