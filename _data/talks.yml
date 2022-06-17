@@ -1,12 +1,12 @@
 - type: Upcoming Companies
   members:
     - speaker: Intel
-      date: 5/26/22
+      date: 8/26/22
 
 - type: Participating Companies
   members:
     - speaker: Google
-      date: 5/19/22
+      date: 6/10/22
       title: "Our mission is to organize the world’s information and make it universally accessible and useful."
       abstract: "<li>Positions at Google Research | <a href='https://www.google.com'>Link</a> </li> 
       <li>Positions at Google Cloud | <a href='https://www.google.com'>Link</a></li>"
@@ -15,7 +15,7 @@
     
     
     - speaker: Meta
-      date: 10/15/22
+      date: 4/15/22
       title: "Give people the power to build community and bring the world closer together."
       abstract: "<li>Positions at Meta Research | </li>
       <li>Positions at FRL[Link]</li>"
