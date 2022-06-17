@@ -76,6 +76,7 @@ Check out our introductory video:
 # About The Job Fair
 
 **Organizers:** 
+
 [Mimi Xie](https://sites.google.com/view/mxie/home), Assistant Professor, University of Texas at San Antonio 
 [Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), Assistant Professor, Arizona State University
 
@@ -85,7 +86,7 @@ ACM Special Interest Group on Design Automation ([SIGDA](https://www.sigda.org))
 IEEE Council on Electronic Design Automation ([CEDA](https://ieee-ceda.org))
 International Conference on Computer-Aided Design ([ICCAD](https://iccad.com))
 
-You can reach us at sysmlstanfordseminar [at] gmail.
+You can reach us at jeffzhang@asu.edu
 
 Source code for this website can be found [here](https://github.com/stanford-sysml-seminar/stanford-sysml-seminar.github.io).
 
