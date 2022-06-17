@@ -53,11 +53,7 @@ Check out our introductory video:
     <details>
     <summary>Job Openings </summary>
     {{ talk.abstract }}
-    <ul> {{ talk.abstract }} </ul>  
-
-  
       
-    
     {% if talk.bio %}
     <br><br>
     <strong>Mission: </strong> {{ talk.bio }}
