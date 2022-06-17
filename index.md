@@ -72,11 +72,18 @@ Check out our introductory video:
 </div>
 {% endfor %}
 
-# About The Seminar
 
-**Seminar Hosts:** Dan Fu, Karan Goel, Fiodar Kazhamakia, Piero Molino.
+# About The Job Fair
 
-**Executive Producers:** Matei Zaharia, Chris Ré.
+**Organizers:** 
+[Mimi Xie](https://sites.google.com/view/mxie/home), Assistant Professor, University of Texas at San Antonio 
+[Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), Assistant Professor, Arizona State University
+
+**Sponsors:** 
+
+ACM Special Interest Group on Design Automation ([SIGDA](https://www.sigda.org))
+IEEE Council on Electronic Design Automation ([CEDA](https://ieee-ceda.org))
+International Conference on Computer-Aided Design ([ICCAD](https://iccad.com))
 
 You can reach us at sysmlstanfordseminar [at] gmail.
 
