@@ -50,7 +50,7 @@ Check out our introductory video:
   {% endif %}
   {% if talk.abstract %}
     <details>
-    <summary>Abstract</summary>
+    <summary>Job Openings</summary>
     {{ talk.abstract }}
     
     {% if talk.bio %}
