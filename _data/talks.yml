@@ -8,7 +8,8 @@
     - speaker: Google
       date: 5/19/22
       title: "Our mission is to organize the world’s information and make it universally accessible and useful."
-      abstract: "<li>Positions at Google Research | <a href="#">Link</a></li> <li>Positions at Google Cloud[Link]</li>"
+      abstract: "<li>Positions at Google Research | </li> 
+      <li>Positions at Google Cloud[Link]</li>"
       bio: "Our mission is to organize the world’s information and make it universally accessible and useful."
       <!--livestream: https://www.youtube.com/watch?v=eNWeFccrouI-->
     
@@ -16,7 +17,7 @@
     - speaker: Meta
       date: 10/15/22
       title: "Give people the power to build community and bring the world closer together."
-      abstract: "<li>Positions at Meta Research |</li>
+      abstract: "<li>Positions at Meta Research | </li>
       <li>Positions at FRL[Link]</li>"
       bio: "Give people the power to build community and bring the world closer together." 
       <!--recording: https://www.youtube.com/watch?v=VqiTtdY58Ts-->
