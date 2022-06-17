@@ -8,9 +8,8 @@
     - speaker: Google
       date: 5/19/22
       title: "Our mission is to organize the world’s information and make it universally accessible and useful."
-      abstract: >-
-      <li>Positions at Google Research | </li> 
-      <li>Positions at Google Cloud[Link]</li>
+      abstract: "<li>Positions at Google Research | <a href='www.google.com'>Link</a> </li> 
+      <li>Positions at Google Cloud[Link]</li>"
       bio: "Our mission is to organize the world’s information and make it universally accessible and useful."
       <!--livestream: https://www.youtube.com/watch?v=eNWeFccrouI-->
     
