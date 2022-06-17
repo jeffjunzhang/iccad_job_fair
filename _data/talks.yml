@@ -8,7 +8,7 @@
     - speaker: Google
       date: 5/19/22
       title: "Machine Learning in Production: Review of Empirical Solutions"
-      job openings: "Taking stock of ML Infra problems with potential to benefit from systematic analysis. ML currently requires running large amounts experiments to compensate for the lack of analysis. 
+      abstract: "Taking stock of ML Infra problems with potential to benefit from systematic analysis. ML currently requires running large amounts experiments to compensate for the lack of analysis. 
 Modern AI infrastructure (major clouds) is efficient in creating, training, and deploying thousands of model. 
 At the same time, improving production models performance, accurate estimation of models performance in production, web data relevance, risk mitigation - these are ad hoc and experiment-driven processes. 
 Analytical analysis for Production [distributed, large-scale, rapidly changing environment] ML can help to direct and hopefully replace the empirical and manual processes."
@@ -16,10 +16,10 @@ Analytical analysis for Production [distributed, large-scale, rapidly changing e
       livestream: https://www.youtube.com/watch?v=eNWeFccrouI
     
     
-    - speaker: Marco Tulio Ribeiro
-      date: 10/15/20
+    - speaker: Meta
+      date: 10/15/22
       title: "Beyond Accuracy: Behavioral Testing of NLP Models with CheckList"
-      job openings: "We will present CheckList, a task-agnostic methodology and tool for testing NLP models inspired by principles of behavioral testing in software engineering.\n
+      abstract: "We will present CheckList, a task-agnostic methodology and tool for testing NLP models inspired by principles of behavioral testing in software engineering.\n
 \n
 We will show a lot of fun bugs we discovered with CheckList, both in commercial models (Microsoft, Amazon, Google) and research models (BERT, RoBERTA for sentiment analysis, QQP, SQuAD). We'll also present comparisons between CheckList and the status quo, in a case study at Microsoft and a user study with researchers and engineers. We show that CheckList is a really helpful process and tool for testing and finding bugs in NLP models, both for practitioners and researchers."
       bio: "Marco Tulio Ribeiro is a Senior Researcher at Microsoft Research. His work is on facilitating the communication between humans and machine learning models, which includes interpretability, trust, debugging, feedback, robustness, testing, etc. He received his PhD from the University of Washington." 
