@@ -8,10 +8,11 @@
     - speaker: Google
       date: 5/19/22
       title: "Our mission is to organize the world’s information and make it universally accessible and useful."
-      abstract: "Taking stock of ML Infra problems with potential to benefit from systematic analysis. ML currently requires running large amounts experiments to compensate for the lack of analysis. 
-Modern AI infrastructure (major clouds) is efficient in creating, training, and deploying thousands of model. 
-At the same time, improving production models performance, accurate estimation of models performance in production, web data relevance, risk mitigation - these are ad hoc and experiment-driven processes. 
-Analytical analysis for Production [distributed, large-scale, rapidly changing environment] ML can help to direct and hopefully replace the empirical and manual processes."
+      abstract: 
+      "
+      - Positions at Google Research | [Link](www.google.com)
+      - Positions at Google | [Link](www.google.com)
+      "
       bio: "Our mission is to organize the world’s information and make it universally accessible and useful."
       livestream: https://www.youtube.com/watch?v=eNWeFccrouI
     
