@@ -1,12 +1,12 @@
 - type: Upcoming Companies
   members:
-    - speaker: Intel
-      date: 8/26/22
+    - speaker: Synopsys
+      date: 6/20/22
 
 - type: Participating Companies
   members:
-    - speaker: Google
-      date: 6/10/22
+    - speaker: Company 1
+      date: 6/10/21
       title: "Our mission is to organize the world’s information and make it universally accessible and useful."
       abstract: "<li>Positions at Google Research | <a href='https://www.google.com'>Link</a> </li> 
       <li>Positions at Google Cloud | <a href='https://www.google.com'>Link</a></li>"
@@ -14,8 +14,8 @@
       <!--livestream: https://www.youtube.com/watch?v=eNWeFccrouI-->
     
     
-    - speaker: Meta
-      date: 4/15/22
+    - speaker: Company 2
+      date: 4/15/21
       title: "Give people the power to build community and bring the world closer together."
       abstract: "<li>Positions at Meta Research | </li>
       <li>Positions at FRL[Link]</li>"
