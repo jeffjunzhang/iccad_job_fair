@@ -15,7 +15,7 @@ The ACM SIGDA job fair is a place for students and professionals looking for int
 
 ACM SIGDA will be holding their annual job fair at the [ICCAD](https://iccad.com) annual conference, in-person, on November 1st (5:30 PM—7:30 PM PST), as well as online, on November 2nd (5:30—7:30 PM PST) and on 3rd (2:30 AM—4:30 AM PST). The job fair is open to all attendees of the ICCAD conference. Attendees are encouraged to submit a CV or résum‌é for circulation beforehand.
 
-If you are representing a company, research organization or university and would like to participate in the job fair, please send an email with your contact information to sigdajobfair@gmail. In addition, all job fair participants must register for the ICCAD. 
+If you are representing a company, research organization or university and would like to participate in the job fair, please send an email with your contact information to sigdajobfair@gmail.com. In addition, all job fair participants must register for the ICCAD. 
 <!--A small participation fee is required (complimentary or discounted participation is available to certain levels of sponsors and exhibitors).-->
 
 <!--
@@ -96,7 +96,7 @@ By uploading your CV, you are agreeing to be contacted by participating and spon
 
 [Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), Assistant Professor, Arizona State University
 
-You can reach us at [sigdajobfair@](mailto:sigdajobfair@xxx)
+You can reach us at [sigdajobfair@gmail.com](mailto:sigdajobfair@gmail.com)
 
 **Sponsors:** 
 
