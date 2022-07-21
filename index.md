@@ -91,6 +91,7 @@ By uploading your CV, you are agreeing to be contacted by participating and spon
 # About The Job Fair
 
 **Organizers:** 
+
 Chair, [Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), Assistant Professor, Arizona State University
 
 Co-chair, [Mimi Xie](https://sites.google.com/view/mxie/home), Assistant Professor, University of Texas at San Antonio
