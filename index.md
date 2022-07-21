@@ -91,10 +91,12 @@ By uploading your CV, you are agreeing to be contacted by participating and spon
 # About The Job Fair
 
 **Organizers:** 
+Chair, [Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), Assistant Professor, Arizona State University
 
-[Mimi Xie](https://sites.google.com/view/mxie/home), Assistant Professor, University of Texas at San Antonio 
+Co-chair, [Mimi Xie](https://sites.google.com/view/mxie/home), Assistant Professor, University of Texas at San Antonio
 
-[Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), Assistant Professor, Arizona State University
+SIGDA Education Chair, [Jingtong Hu](https://sites.pitt.edu/~jthu/)), Associate Professor, University of Pittsburgh
+
 
 You can reach us at [sigdajobfair@gmail.com](mailto:sigdajobfair@gmail.com)
 
