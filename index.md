@@ -96,7 +96,7 @@ Chair, [Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), Assi
 
 Co-chair, [Mimi Xie](https://sites.google.com/view/mxie/home), Assistant Professor, University of Texas at San Antonio
 
-SIGDA Education Chair, [Jingtong Hu](https://sites.pitt.edu/~jthu/)), Associate Professor, University of Pittsburgh
+SIGDA Education Chair, [Jingtong Hu](https://sites.pitt.edu/~jthu/), Associate Professor, University of Pittsburgh
 
 
 You can reach us at [sigdajobfair@gmail.com](mailto:sigdajobfair@gmail.com)
