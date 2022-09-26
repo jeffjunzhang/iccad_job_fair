@@ -84,7 +84,7 @@ As part of the job fair, attendees are encouraged to submit their CV to all of t
 
 Please clearly indicate on your CV or r‌ésum‌é your availability and type of job interest, along with contact information!
 
-[Upload your CV here to submit to all participating companies.](google.com) 
+[Upload your CV here to submit to all participating companies.](https://forms.gle/ohHHpC877kAdedr4A) 
 
 By uploading your CV, you are agreeing to be contacted by participating and sponsor companies about recruiting and job openings.
 
