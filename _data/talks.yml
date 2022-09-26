@@ -1,11 +1,11 @@
 - type: Upcoming Companies
   members:
     - speaker: Zero ASIC
-      date: 8/12/22
+      date:
     - speaker: Cadence
-      date: 7/20/22
+      date:
     - speaker: Synopsys
-      date: 6/20/22
+      date:
 
 - type: Participating Companies
   members:
