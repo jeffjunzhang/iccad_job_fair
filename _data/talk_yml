@@ -1,0 +1,27 @@
+- type: Upcoming Companies
+  members:
+    - speaker: Zero ASIC
+      date:
+    - speaker: Cadence
+      date:
+    - speaker: Synopsys
+      date:
+
+- type: Participating Companies
+  members:
+    - speaker: Company 1
+      date: 6/10/21
+      title: "Our mission is to organize the world’s information and make it universally accessible and useful."
+      abstract: "<li>Positions at Google Research | <a href='https://www.google.com'>Link</a> </li> 
+      <li>Positions at Google Cloud | <a href='https://www.google.com'>Link</a></li>"
+      bio: "Our mission is to organize the world’s information and make it universally accessible and useful."
+      <!--livestream: https://www.youtube.com/watch?v=eNWeFccrouI-->
+    
+    
+    - speaker: Company 2
+      date: 4/15/21
+      title: "Give people the power to build community and bring the world closer together."
+      abstract: "<li>Positions at Meta Research | </li>
+      <li>Positions at FRL[Link]</li>"
+      bio: "Give people the power to build community and bring the world closer together." 
+      <!--recording: https://www.youtube.com/watch?v=VqiTtdY58Ts-->
