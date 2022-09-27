@@ -12,7 +12,7 @@ meta-description: "Job Fair at ICCAD. In-person meeting and Livestreamed during 
 * We are planning to have an online session on Nov. 2nd!
 <!--* Join our [email list](https://groups.google.com/) to get notified of the new job openings every week! -->
 
-ACM SIGDA will be holding their annual (1st) job fair at the [2022 International Conference on Computer-Aided Design (ICCAD)](https://iccad.com) conference, in-person, on November 1st (5:30 PM—7:30 PM PST), as well as online, on November 2nd (6:00—7:00 AM PST). The job fair is open to all attendees of the ICCAD conference. Attendees are encouraged to submit a CV or résum‌é for circulation beforehand.
+ACM SIGDA will be holding their annual (1st) job fair at the [2022 International Conference on Computer-Aided Design (ICCAD)](https://iccad.com) conference, in-person, <b> on November 1st (5:30 PM—7:30 PM PST) </b> in San Diego CA, as well as online, on November 2nd (6:00—7:00 AM PST). The job fair is open to all attendees of the ICCAD conference. Attendees are encouraged to submit a CV or résum‌é for circulation beforehand.
 
 The ACM SIGDA job fair is a place for students and professionals looking for internships or jobs to meet with representatives from companies and academia. In the beginning of the event, one representative from each organization has the opportunity to introduce the organization and its job opening(s). Afterward, all attendees have a chance to mingle.
 
