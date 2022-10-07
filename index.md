@@ -99,6 +99,7 @@ Co-chair, [Mimi Xie](https://sites.google.com/view/mxie/home), Assistant Profess
 
 SIGDA Education Chair, [Jingtong Hu](https://sites.pitt.edu/~jthu/), Associate Professor, University of Pittsburgh
 
+CEDA VP Technical Activities, [Tsung-Yi Ho](https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/), Professor, The Chinese University of Hong Kong
 
 You can reach us at [sigdajobfair@gmail.com](mailto:sigdajobfair@gmail.com)
 
