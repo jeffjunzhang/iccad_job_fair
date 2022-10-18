@@ -35,8 +35,9 @@ Check out our introductory video:
 <!-- Read our blog post on our [why we're running this seminar]({{ site.baseurl }}/about). -->
 
 {% for category in site.data.talks %}
-*in no particular order
 # {{ category.type }}
+*Names in no particular order
+# {{ category.type }} 
 <div class="talk-list">
   {% for talk in category.members %}
   <div class="talk list-group-item">
