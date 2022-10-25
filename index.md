@@ -8,7 +8,7 @@ meta-description: "ACM/IEEE Job Fair at ICCAD. In-person meeting and Livestreame
 **Announcement**:
 <!--* We are now having XXX job openings from our company participants!-->
 * Our in-person meetings are <u> Nov. 1st (Tuesday) 5:30 PM PT </u>! 
-  Location: <u> Terazza Ballroom, SAN DIEGO MISSION BAY RESORT</u>. Join and enjoy the dinner from ACM SIGDA :)
+  Location: <u> <b>Pavilion</b>, SAN DIEGO MISSION BAY RESORT</u>. Join and enjoy the dinner from ACM SIGDA :)
 * We are planning to have an online session on Nov. 2nd!
 <!--* Join our [email list](https://groups.google.com/) to get notified of the new job openings every week! -->
 
