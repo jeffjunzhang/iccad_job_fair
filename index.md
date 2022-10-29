@@ -8,8 +8,9 @@ meta-description: "ACM/IEEE Job Fair at ICCAD. In-person meeting and Livestreame
 **Announcement**:
 <!--* We are now having XXX job openings from our company participants!-->
 * Our in-person meetings are <u> Nov. 1st (Tuesday) 5:30 PM PT </u>! 
-  Updated Location: <u> <b>Pavilion</b>, SAN DIEGO MISSION BAY RESORT</u>. Join and enjoy the dinner from ACM SIGDA :)
-* We are planning to have an online session on Nov. 2nd!
+  Updated Location: <u> <b>Pavilion</b>, SAN DIEGO MISSION BAY RESORT</u>. Bring your CVs and enjoy the dinner from ACM SIGDA :)
+* We are planning to have an online session on Nov. 2nd. Zoom link will be posted soon!
+* Please submit your CVs ASAP!
 <!--* Join our [email list](https://groups.google.com/) to get notified of the new job openings every week! -->
 
 ACM SIGDA and IEEE CEDA will be holding their annual (1st) EDA job fair at the [2022 International Conference on Computer-Aided Design (ICCAD)](https://iccad.com) conference, in-person, <b> on November 1st (5:30 PM—7:30 PM PST) </b> in San Diego CA, as well as online, on November 2nd (6:00—7:00 AM PST). The job fair is open to all attendees of the ICCAD conference. Attendees are encouraged to submit a CV or résum‌é for circulation beforehand.
