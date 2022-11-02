@@ -9,7 +9,7 @@ meta-description: "ACM/IEEE Job Fair at ICCAD. In-person meeting and Livestreame
 <!--* We are now having XXX job openings from our company participants!-->
 * Our in-person meetings are <u> Nov. 1st (Tuesday) 5:30 PM PT </u>! 
   Updated Location: <u> <b>Pavilion</b>, SAN DIEGO MISSION BAY RESORT</u>. Bring your CVs and enjoy the dinner from ACM SIGDA :)
-* We are planning to have an online session on Nov. 2nd. Zoom link will be posted soon!
+* We are planning to have an online session on Nov. 2nd @6AM PST. Zoom link:https://us02web.zoom.us/j/81984030789  
 * Please submit your CVs ASAP!
 <!--* Join our [email list](https://groups.google.com/) to get notified of the new job openings every week! -->
 
