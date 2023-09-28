@@ -3,7 +3,7 @@ layout: default
 meta-description: "ACM/IEEE Job Fair at ICCAD. In-person meeting and Livestreamed Nov. 1st, 5:30-7:00 pm PT."
 ---
 
-# ACM SIGDA/IEEE CEDA 1st Job Fair at ICCAD 2022
+# ACM SIGDA/IEEE CEDA 1st Job Fair at ICCAD 2023
 
 **Announcement**:
 <!--* We are now having XXX job openings from our company participants!-->
