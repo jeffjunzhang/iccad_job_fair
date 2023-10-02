@@ -1,19 +1,18 @@
 ---
 layout: default
-meta-description: "ACM/IEEE Job Fair at ICCAD. In-person meeting and Livestreamed Nov. 1st, 5:30-7:00 pm PT."
+meta-description: "ACM/IEEE Job Fair at ICCAD. In-person meeting Oct. 31st, 5:30-7:00 pm PT."
 ---
 
 # ACM SIGDA/IEEE CEDA 2nd Job Fair at ICCAD 2023
 
 **Announcement**:
 <!--* We are now having XXX job openings from our company participants!-->
-* Our in-person meetings are <u> Nov. 1st (Tuesday) 5:30 PM PT </u>! 
-  Updated Location: <u> <b>Pavilion</b>, SAN DIEGO MISSION BAY RESORT</u>. Bring your CVs and enjoy the dinner from ACM SIGDA :)
-* We are planning to have an online session on Nov. 2nd @6AM PST. Zoom link:https://us02web.zoom.us/j/81984030789  
+* Our in-person meetings are <u> Oct. 31st (Tuesday) 5:30 PM PT </u>! 
+  Updated Location: <u> <b>Pavilion</b>, Hyatt Regency San Francisco Downton SoMa (Gallery III)</u>. Bring your CVs and enjoy the dinner from ACM SIGDA :) 
 * Please submit your CVs ASAP!
 <!--* Join our [email list](https://groups.google.com/) to get notified of the new job openings every week! -->
 
-ACM SIGDA and IEEE CEDA will be holding their annual (1st) EDA job fair at the [2022 International Conference on Computer-Aided Design (ICCAD)](https://iccad.com) conference, in-person, <b> on November 1st (5:30 PM—7:00 PM PST) </b> in San Diego CA, as well as online, on November 2nd (6:00—7:00 AM PST). The job fair is open to all attendees of the ICCAD conference. Attendees are encouraged to submit a CV or résum‌é for circulation beforehand.
+ACM SIGDA and IEEE CEDA will be holding their annual (2nd) EDA job fair at the [2023 International Conference on Computer-Aided Design (ICCAD)](https://iccad.com) conference, in-person, <b> on Oct 31st (5:30 PM—7:00 PM PST) </b> in San Francisco CA. The job fair is open to all attendees of the ICCAD conference. Attendees are encouraged to submit a CV or résum‌é for circulation beforehand.
 
 The EDA job fair is a place for students and professionals looking for internships or jobs to meet with representatives from companies and academia. In the beginning of the event, one representative from each organization has the opportunity to introduce the organization and its job opening(s). Afterward, all attendees have a chance to mingle.
 
@@ -95,13 +94,9 @@ By uploading your CV, you are agreeing to be contacted by participating and spon
 
 **Organizers:** 
 
-Chair, [Jeff (Jun) Zhang](https://scholar.harvard.edu/jeff-jun-zhang/home), Assistant Professor, Arizona State University
+Chair, [Vidya Chhabria](https://search.asu.edu/profile/4370240), Assistant Professor, Arizona State University
 
-Co-chair, [Mimi Xie](https://sites.google.com/view/mxie/home), Assistant Professor, University of Texas at San Antonio
-
-SIGDA Education Chair, [Jingtong Hu](https://sites.pitt.edu/~jthu/), Associate Professor, University of Pittsburgh
-
-CEDA VP Technical Activities, [Tsung-Yi Ho](https://www.cse.cuhk.edu.hk/people/faculty/tsung-yi-ho/), Professor, The Chinese University of Hong Kong
+Co-Chair, [Jeff (Jun) Zhang](https://search.asu.edu/profile/4346755), Assistant Professor, Arizona State University
 
 You can reach us at [sigdajobfair@gmail.com](mailto:sigdajobfair@gmail.com)
 
@@ -114,7 +109,7 @@ IEEE Council on Electronic Design Automation ([CEDA](https://ieee-ceda.org))
 International Conference on Computer-Aided Design ([ICCAD](https://iccad.com))
 
 
-Source code for this website can be found [here](https://github.com/jeffjunzhang/job_fair_2022).
+Source code for this website can be found [here](https://github.com/jeffjunzhang/iccad_job_fair).
 
 <!-- Please uncomment this part if you clone our source code! -->
 <!--
