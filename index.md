@@ -8,7 +8,7 @@ meta-description: "ACM/IEEE Job Fair at ICCAD. In-person meeting Oct. 31st, 5:30
 **Announcement**:
 <!--* We are now having XXX job openings from our company participants!-->
 * Our in-person meetings are <u> Oct. 31st (Tuesday) 5:30 PM PT </u>! 
-  Updated Location: <u> <b>Pavilion</b>, Hyatt Regency San Francisco Downton SoMa (Gallery III)</u>. Bring your CVs and enjoy the dinner from ACM SIGDA :) 
+  Updated Location: <u> <b> Hyatt Regency San Francisco Downton SoMa (Gallery III)</b></u>. Bring your CVs and enjoy the dinner from ACM SIGDA :) 
 * Please submit your CVs ASAP!
 <!--* Join our [email list](https://groups.google.com/) to get notified of the new job openings every week! -->
 
