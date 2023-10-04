@@ -17,7 +17,7 @@ ACM SIGDA and IEEE CEDA will be holding their annual (2nd) EDA job fair at the [
 
 The EDA job fair is a place for students and professionals looking for internships or jobs to meet with representatives from companies and academia. In the beginning of the event, one representative from each organization has the opportunity to introduce the organization and its job opening(s). Afterward, all attendees have a chance to mingle.
 
-If you are representing a company, research organization or university and would like to participate in the job fair, please send an email with your contact information to sigdajobfair@gmail.com. In addition, all job fair participants must [register](https://iccad.com/registration/) (at least one-day) for the ICCAD. 
+If you are representing a company, research organization or university and would like to participate in the job fair, please send an email with your contact information to sigdajobfair@gmail.com. In addition, all job fair participants must [register](https://2023.iccad.com/registration) (at least one-day) for the ICCAD. 
 <!--A small participation fee is required (complimentary or discounted participation is available to certain levels of sponsors and exhibitors).-->
 
 <!--
