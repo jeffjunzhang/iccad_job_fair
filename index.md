@@ -9,7 +9,8 @@ meta-description: "ACM/IEEE Job Fair at ICCAD. In-person meeting Oct. 31st, 5:30
 <!--* We are now having XXX job openings from our company participants!-->
 * Our in-person meetings are <u> Oct. 31st (Tuesday) 5:30 PM PT </u>! 
   Updated Location: <u> <b> Hyatt Regency San Francisco Downton SoMa (Gallery III)</b></u>. Bring your CVs and enjoy the dinner from ACM SIGDA :) 
-* Please submit your CVs ASAP!
+* Please [submit your CVs](https://forms.gle/jUk94f874FwiC5og8)  ASAP!
+
 <!--* Join our [email list](https://groups.google.com/) to get notified of the new job openings every week! -->
 
 ACM SIGDA and IEEE CEDA will be holding their annual (2nd) EDA job fair at the [2023 International Conference on Computer-Aided Design (ICCAD)](https://iccad.com) conference, in-person, <b> on Oct 31st (5:30 PM—7:00 PM PST) </b> in San Francisco CA. The job fair is open to all attendees of the ICCAD conference. Attendees are encouraged to submit a CV or résum‌é for circulation beforehand.
