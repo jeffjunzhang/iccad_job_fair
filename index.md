@@ -7,6 +7,7 @@ meta-description: "ACM/IEEE Job Fair at ICCAD. In-person meeting Oct. 31st, 5:30
 
 **Announcement**:
 <!--* We are now having XXX job openings from our company participants!-->
+* We are adding an academic job track this year!
 * Our in-person meetings are <u> Oct. 31st (Tuesday) 5:30 PM PT </u>! 
   Updated Location: <u> <b> Hyatt Regency San Francisco Downton SoMa (Gallery III)</b></u>. Bring your CVs and enjoy the dinner from ACM SIGDA :) 
 * Please [submit your CVs](https://forms.gle/jUk94f874FwiC5og8)  ASAP!
@@ -15,16 +16,16 @@ meta-description: "ACM/IEEE Job Fair at ICCAD. In-person meeting Oct. 31st, 5:30
 
 ACM SIGDA and IEEE CEDA will be holding their annual (2nd) EDA job fair at the [2023 International Conference on Computer-Aided Design (ICCAD)](https://iccad.com) conference, in-person, <b> on Oct 31st (5:30 PM—7:00 PM PST) </b> in San Francisco CA. The job fair is open to all attendees of the ICCAD conference. Attendees are encouraged to submit a CV or résum‌é for circulation beforehand.
 
-The EDA job fair is a place for students and professionals looking for internships or jobs to meet with representatives from companies and academia. In the beginning of the event, one representative from each organization has the opportunity to introduce the organization and its job opening(s). Afterward, all attendees have a chance to mingle.
+The EDA job fair is a place for students and professionals looking for internships or full-time jobs to meet with representatives from companies and academia. At the beginning of the event, one representative from each organization has the opportunity to introduce the organization and its job opening(s). Afterward, all attendees have a chance to mingle.
 
-If you are representing a company, research organization or university and would like to participate in the job fair, please send an email with your contact information to sigdajobfair@gmail.com. In addition, all job fair participants must [register](https://2023.iccad.com/registration) (at least one-day) for the ICCAD. 
+If you are representing a company, research organization, or university and would like to participate in the job fair, please send an email with your contact information to sigdajobfair@gmail.com. In addition, all job fair participants must [register](https://2023.iccad.com/registration) (for at least one day) for the ICCAD. 
 <!--A small participation fee is required (complimentary or discounted participation is available to certain levels of sponsors and exhibitors).-->
 
 <!--
-We started livestreaming each talk in this seminar series every week on [YouTube](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ)
-in Fall 2020, and we've been going strong ever since!
-Every week we take questions from the live chat, and keep videos of the talks
-available on YouTube afterwards as well.
+We started live-streaming each talk in this seminar series every week on [YouTube](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ)
+in the Fall of 2020, and we've been going strong ever since!
+Every week we take questions from the live chat and keep videos of the talks
+available on YouTube afterward as well.
 Give our channel a follow, and tune in every week for an exciting discussion!
 
 Read about our [motivation for starting this seminar](https://hazyresearch.stanford.edu/blog/2020-10-13-mlsys). 
