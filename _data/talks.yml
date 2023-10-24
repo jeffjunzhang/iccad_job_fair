@@ -10,9 +10,9 @@
       date: <li>Job Openings | <a href='https://www.google.com'>Link</a> </li>
     - speaker: University of Michigan-Shanghai Jiao Tong University Joint Institute
       date: <li>Job Openings | <a href='https://www.google.com'>Link</a> </li>
-       - speaker: University of Illinois at Chicago 
+    - speaker: University of Illinois at Chicago 
       date: <li>Job Openings  | <a href='https://www.google.com'>Link</a> </li>
-      - speaker: University of California at Riverside 
+    - speaker: University of California at Riverside 
       date: <li>Job Openings  | <a href='https://www.google.com'>Link</a> </li>
     - speaker: National Taiwan University 
       date: <li>Job Openings  | <a href='https://www.google.com'>Link</a> </li>
